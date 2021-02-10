@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Datenschutzerklärung
 
-You can use the [editor on GitHub](https://github.com/Kaitek-Coder/ReFinder/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten innerhalb dieser App auf. Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
+Personenbezogene Daten
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Personenbezogene Daten sind Einzelangaben über Ihre persönlichen oder sachlichen Verhältnisse, die zur Ermittlung Ihrer Identität genutzt werden können (beispielsweise Name, Anschrift, Telefonnummer, E-Mail-Adresse).
 
-### Markdown
+Die Nutzung der App ist grundsätzlich ohne Angabe personenbezogener Daten möglich.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sie haben die Möglichkeit der App den Zugriff auf Ihren aktuellen Standort zu erlauben. In diesem Fall wird diese zur Ortung des momentanen Standortes bei Verbindungsabbruch zu einem Bluetooth-Gerät verwendet. Entscheiden Sie sich Ihren Standort nicht freizugeben, dann können Sie die App nicht für ihren Verwendungszweck, dem tracken Ihrer Bluetooth-Geräte, nutzen.
 
-```markdown
-Syntax highlighted code block
+Weitere personenbezogene Angaben wie Ihr Name, Ihre Anschrift, Telefonnummer oder E-Mail-Adresse werden nicht erfasst, es sei denn, Sie machen diese Angaben freiwillig, z.B. in dem Sie uns per E-Mail kontaktieren.
 
-# Header 1
-## Header 2
-### Header 3
+## Datenerfassung und -speicherung
 
-- Bulleted
-- List
+Um den Betrieb der App zu gewährleisten werden folgende Daten erfasst und auf Ihrem Gerät gespeichert.
+- Standort
+- Bluetooth MAC-Adressen
 
-1. Numbered
-2. List
+Mit Ihrer Zustimmung kann die App auf Ihren Standort zugreifen. Ihr Standort wird zur Bestimmung des Ortes verwendet, an dem die Verbindung zum Bluetooth-Gerät verloren gegangen ist. Außerdem wird er gespeichert, um den Standort des Verbindungsverlustes wieder anzeigen zu können. Dazu werden auch die Bluetooth MAC-Adressen gespeichert um eine eindeutige Zuordnung und Wiedererkennung Ihrer Geräte zu ermöglichen.
 
-**Bold** and _Italic_ and `Code` text
+Diese Daten werden ausschließlich lokal auf Ihrem Gerät gespeichert und nicht an irgend einen Server weitergeleitet.
 
-[Link](url) and ![Image](src)
-```
+## Google Admob
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Die kostenlose Version der App benutzt den Dienst Google Admob, um Werbeanzeigen einzublenden. Anzeigen werden basierend auf dem von Ihnen verwendeten Gerät personalisiert. Sie können dies über die Einstellungen Ihres Geräts deaktivieren.
 
-### Jekyll Themes
+Der Google Admob Dienst wird von der Firma Google (Google Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA) bereitgestellt. Google ist unter dem Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten (https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kaitek-Coder/ReFinder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Allgemeine Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Google: https://www.google.de/intl/de/policies/privacy/
